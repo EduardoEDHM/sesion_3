@@ -1,6 +1,6 @@
 *{
 
- margin: 0px;
+    margin: 0px;
 
 }
 
@@ -26,5 +26,24 @@ nav{
 .Logo{
 
     color: white;
+
+}
+
+
+.container-section-promo{
+
+    display: flex;
+    width: 70%;
+    margin: 100px auto;
+    align-items: center;
+
+}
+
+
+.item-article{
+
+    width: 30%;
+    height: 100px;
+    background-color: rgb(23, 139, 139);
 
 }
